@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Jogadores e Times</string>
+    <string name="jogador">Jogador</string>
+    <string name="time">Time</string>
+
+    <string name="tvInicial">Bem Vindo a Mais Uma Aplicação Android!!!</string>
+
+    <string name="Time">Time</string>
+
+    <string name="etCodigo">Codigo: </string>
+    <string name="etNome">Nome: </string>
+    <string name="etCidade">Cidade: </string>
+
+    <string name="etId">Id: </string>
+    <string name="etDataNasc">Data De Nascimento: </string>
+    <string name="etAltura">Altura: </string>
+    <string name="etPeso">Peso: </string>
+    <string name="etTime">Time: </string>
+
+
+    <!--Buttons of CRUD-->
+    <string name="btnInserir">Inserir</string>
+    <string name="btnModificar">Modificar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnExcluir">Excluir</string>
+    <string name="btnListar">Listar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
